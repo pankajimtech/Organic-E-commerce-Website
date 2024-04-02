@@ -1,0 +1,179 @@
+.brand_logo {
+  font-family: "Sofia", cursive;
+  font-size: 40px;
+  text-decoration: none;
+  color: #113706;
+}
+
+.search-bar {
+  border-radius: 40px;
+  border: 2px solid red;
+  outline: red;
+  padding: 7px;
+}
+
+body {
+  background-color: orange;
+}
+
+.sbutton{
+    background-color: red;
+    border-radius: 40px;
+    padding: 7px;
+  border: none ;
+  outline: none;
+  width: 100px;
+  margin-left: -50px;
+  color: whitesmoke;
+}
+.bimg{
+    background-image: url("https://img.freepik.com/premium-photo/fruits-palm-leaves-white-surface_70626-12752.jpg?w=1800 ");
+    background-size: cover; 
+    height: 90.61vh;
+    position: relative;
+}
+
+.theme{
+    position: absolute;
+    left: 20% ;
+    top: 16%;
+    font-weight: 900;
+    font-size: 100px;
+}
+
+nav{
+  position: fixed;
+  z-index: 1000;
+  /* background-color: wheat; */
+  opacity: 0.80;
+  overflow: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.more_tips{
+    position: absolute;
+    left: 45% ;
+    top: 55%;
+    width:12vw ;
+    border-radius: 40px;
+    padding: 15px;
+    font-size: 20px;
+    background-color: red;
+    border: none;
+    color: whitesmoke;
+}
+
+
+
+
+
+
+
+.click{
+
+  background-color: red;
+  border-radius: 40px;
+  padding: 10px;
+border: none ;
+outline: none;
+width: 150px;
+
+color: whitesmoke;
+}
+
+
+
+
+.from_us {
+  
+    /* width:8vw ; */
+    border-radius: 50px;
+    padding: 9.3px;
+    font-size: 15px;
+    background-color: red;
+    border: none;
+    color: whitesmoke;
+  font-weight: 500;
+}
+
+
+
+.apple{
+  background-image: url("https://www.producebluebook.com/wp-content/uploads/2018/08/Mango_KYC_Featured_Image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 30px;
+  
+}
+
+
+
+
+.unlock{
+  font-family: "Sofia", cursive;
+  font-weight: 800;
+  font-size: 50px;
+  color: white;
+}
+
+
+
+.always{
+  color: white;
+}
+
+https://img.freepik.com/premium-photo/tropical-fruits-papaya-dragon-fruit-rambutan-tamarind-cactus-fruit-avocado-granadilla-carambola-kumquat-mango-mangosteen-passionfruit-coconut-wooden-background_187166-44648.jpg
+
+https://img.freepik.com/free-photo/blue-background-with-food-frame_23-2148244630.jpg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
